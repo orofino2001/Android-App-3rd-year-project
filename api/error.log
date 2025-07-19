@@ -1,0 +1,25 @@
+[08-May-2025 02:22:57 UTC] Script started
+[08-May-2025 11:26:36 UTC] Script started
+[08-May-2025 11:26:36 UTC] Exercise History Data: []
+[08-May-2025 11:28:18 UTC] Script started
+[08-May-2025 11:28:18 UTC] Exercise History Data: []
+[08-May-2025 12:21:46 UTC] Script started
+[08-May-2025 12:21:46 UTC] Exercise History Data: []
+[08-May-2025 12:34:16 UTC] Script started
+[08-May-2025 12:34:16 UTC] Exercise History Data: [{"Routine_Exercise_ID":44,"Date":"2025-05-08","Weight":50,"Reps":10,"Set_Number":1},{"Routine_Exercise_ID":44,"Date":"2025-05-08","Weight":50,"Reps":10,"Set_Number":2}]
+[08-May-2025 12:34:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'History_ID' doesn't have a default value in /home/ado19/public_html/api/completed_routine.php:87
+Stack trace:
+#0 /home/ado19/public_html/api/completed_routine.php(87): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ado19/public_html/api/completed_routine.php on line 87
+[08-May-2025 12:54:44 UTC] Script started
+[08-May-2025 12:54:44 UTC] Exercise History Data: [{"Routine_Exercise_ID":44,"Date":"2025-05-08","Weight":50,"Reps":10,"Set_Number":1},{"Routine_Exercise_ID":44,"Date":"2025-05-08","Weight":50,"Reps":10,"Set_Number":2}]
+[08-May-2025 12:54:44 UTC] Successfully inserted Exercise_History entry: {"Routine_Exercise_ID":44,"Date":"2025-05-08","Weight":50,"Reps":10,"Set_Number":1}
+[08-May-2025 12:54:44 UTC] Successfully inserted Exercise_History entry: {"Routine_Exercise_ID":44,"Date":"2025-05-08","Weight":50,"Reps":10,"Set_Number":2}
+[09-May-2025 04:15:44 UTC] Script started
+[09-May-2025 04:15:44 UTC] Exercise History Data: [{"Routine_Exercise_ID":37,"Date":"2025-05-09","Weight":50,"Reps":10,"Set_Number":1},{"Routine_Exercise_ID":37,"Date":"2025-05-09","Weight":50,"Reps":10,"Set_Number":2},{"Routine_Exercise_ID":38,"Date":"2025-05-09","Weight":50,"Reps":10,"Set_Number":1},{"Routine_Exercise_ID":38,"Date":"2025-05-09","Weight":50,"Reps":10,"Set_Number":2},{"Routine_Exercise_ID":38,"Date":"2025-05-09","Weight":50,"Reps":10,"Set_Number":3}]
+[09-May-2025 04:15:44 UTC] Successfully inserted Exercise_History entry: {"Routine_Exercise_ID":37,"Date":"2025-05-09","Weight":50,"Reps":10,"Set_Number":1}
+[09-May-2025 04:15:44 UTC] Successfully inserted Exercise_History entry: {"Routine_Exercise_ID":37,"Date":"2025-05-09","Weight":50,"Reps":10,"Set_Number":2}
+[09-May-2025 04:15:44 UTC] Successfully inserted Exercise_History entry: {"Routine_Exercise_ID":38,"Date":"2025-05-09","Weight":50,"Reps":10,"Set_Number":1}
+[09-May-2025 04:15:44 UTC] Successfully inserted Exercise_History entry: {"Routine_Exercise_ID":38,"Date":"2025-05-09","Weight":50,"Reps":10,"Set_Number":2}
+[09-May-2025 04:15:44 UTC] Successfully inserted Exercise_History entry: {"Routine_Exercise_ID":38,"Date":"2025-05-09","Weight":50,"Reps":10,"Set_Number":3}

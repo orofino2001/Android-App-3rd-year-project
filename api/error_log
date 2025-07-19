@@ -1,0 +1,485 @@
+[09-Mar-2025 15:17:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ado19_GymApp.users' doesn't exist in /home/ado19/public_html/api/fetch.php:21
+Stack trace:
+#0 /home/ado19/public_html/api/fetch.php(21): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in /home/ado19/public_html/api/fetch.php on line 21
+[09-Mar-2025 15:22:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/ado19/public_html/api/fetch.php:21
+Stack trace:
+#0 /home/ado19/public_html/api/fetch.php(21): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in /home/ado19/public_html/api/fetch.php on line 21
+[09-Mar-2025 16:39:46 UTC] PHP Warning:  Undefined array key "username" in /home/ado19/public_html/api/fetch.php on line 20
+[09-Mar-2025 16:39:46 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + null in /home/ado19/public_html/api/fetch.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ado19/public_html/api/fetch.php on line 20
+[09-Mar-2025 16:41:22 UTC] PHP Warning:  Undefined array key "username" in /home/ado19/public_html/api/fetch.php on line 20
+[09-Mar-2025 16:41:22 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + null in /home/ado19/public_html/api/fetch.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ado19/public_html/api/fetch.php on line 20
+[09-Mar-2025 17:47:03 UTC] PHP Warning:  Undefined array key "username" in /home/ado19/public_html/api/fetch.php on line 20
+[09-Mar-2025 17:47:03 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + null in /home/ado19/public_html/api/fetch.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ado19/public_html/api/fetch.php on line 20
+[09-Mar-2025 18:47:08 UTC] PHP Warning:  Undefined array key "username" in /home/ado19/public_html/api/fetch.php on line 20
+[09-Mar-2025 18:47:08 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + null in /home/ado19/public_html/api/fetch.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ado19/public_html/api/fetch.php on line 20
+[09-Mar-2025 20:29:37 UTC] PHP Warning:  Undefined array key "username" in /home/ado19/public_html/api/fetch.php on line 20
+[09-Mar-2025 20:29:37 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + null in /home/ado19/public_html/api/fetch.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ado19/public_html/api/fetch.php on line 20
+[09-Mar-2025 20:29:44 UTC] PHP Warning:  Undefined array key "username" in /home/ado19/public_html/api/fetch.php on line 20
+[09-Mar-2025 20:29:44 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + null in /home/ado19/public_html/api/fetch.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ado19/public_html/api/fetch.php on line 20
+[20-Mar-2025 08:58:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Data too long for column 'Password_hash' at row 1 in /home/ado19/public_html/api/register.php:69
+Stack trace:
+#0 /home/ado19/public_html/api/register.php(69): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ado19/public_html/api/register.php on line 69
+[20-Mar-2025 08:59:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Data too long for column 'Password_hash' at row 1 in /home/ado19/public_html/api/register.php:69
+Stack trace:
+#0 /home/ado19/public_html/api/register.php(69): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ado19/public_html/api/register.php on line 69
+[20-Mar-2025 21:13:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Data too long for column 'Password_hash' at row 1 in /home/ado19/public_html/api/register.php:69
+Stack trace:
+#0 /home/ado19/public_html/api/register.php(69): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ado19/public_html/api/register.php on line 69
+[20-Mar-2025 21:52:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'Age' doesn't have a default value in /home/ado19/public_html/api/register.php:69
+Stack trace:
+#0 /home/ado19/public_html/api/register.php(69): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ado19/public_html/api/register.php on line 69
+[20-Mar-2025 21:53:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'Age' doesn't have a default value in /home/ado19/public_html/api/register.php:84
+Stack trace:
+#0 /home/ado19/public_html/api/register.php(84): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ado19/public_html/api/register.php on line 84
+[20-Mar-2025 21:55:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'Join_date' doesn't have a default value in /home/ado19/public_html/api/register.php:84
+Stack trace:
+#0 /home/ado19/public_html/api/register.php(84): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/ado19/public_html/api/register.php on line 84
+[12-Apr-2025 14:12:05 UTC] PHP Warning:  Undefined variable $servername in /home/ado19/public_html/api/fetch_exercises.php on line 9
+[12-Apr-2025 14:12:05 UTC] PHP Warning:  Undefined variable $username in /home/ado19/public_html/api/fetch_exercises.php on line 9
+[12-Apr-2025 14:12:05 UTC] PHP Warning:  Undefined variable $password in /home/ado19/public_html/api/fetch_exercises.php on line 9
+[12-Apr-2025 14:12:05 UTC] PHP Warning:  Undefined variable $dbname in /home/ado19/public_html/api/fetch_exercises.php on line 9
+[12-Apr-2025 14:12:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in /home/ado19/public_html/api/fetch_exercises.php:9
+Stack trace:
+#0 /home/ado19/public_html/api/fetch_exercises.php(9): mysqli->__construct(NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home/ado19/public_html/api/fetch_exercises.php on line 9
+[12-Apr-2025 14:14:23 UTC] PHP Warning:  Undefined variable $servername in /home/ado19/public_html/api/fetch_exercises.php on line 9
+[12-Apr-2025 14:14:23 UTC] PHP Warning:  Undefined variable $username in /home/ado19/public_html/api/fetch_exercises.php on line 9
+[12-Apr-2025 14:14:23 UTC] PHP Warning:  Undefined variable $password in /home/ado19/public_html/api/fetch_exercises.php on line 9
+[12-Apr-2025 14:14:23 UTC] PHP Warning:  Undefined variable $dbname in /home/ado19/public_html/api/fetch_exercises.php on line 9
+[12-Apr-2025 14:14:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in /home/ado19/public_html/api/fetch_exercises.php:9
+Stack trace:
+#0 /home/ado19/public_html/api/fetch_exercises.php(9): mysqli->__construct(NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home/ado19/public_html/api/fetch_exercises.php on line 9
+[12-Apr-2025 15:52:07 UTC] PHP Warning:  Undefined variable $servername in /home/ado19/public_html/api/fetch_exercises.php on line 9
+[12-Apr-2025 15:52:07 UTC] PHP Warning:  Undefined variable $username in /home/ado19/public_html/api/fetch_exercises.php on line 9
+[12-Apr-2025 15:52:07 UTC] PHP Warning:  Undefined variable $password in /home/ado19/public_html/api/fetch_exercises.php on line 9
+[12-Apr-2025 15:52:07 UTC] PHP Warning:  Undefined variable $dbname in /home/ado19/public_html/api/fetch_exercises.php on line 9
+[12-Apr-2025 15:52:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in /home/ado19/public_html/api/fetch_exercises.php:9
+Stack trace:
+#0 /home/ado19/public_html/api/fetch_exercises.php(9): mysqli->__construct(NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home/ado19/public_html/api/fetch_exercises.php on line 9
+[12-Apr-2025 15:59:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ado19_GymApp.exercises' doesn't exist in /home/ado19/public_html/api/fetch_exercises.php:17
+Stack trace:
+#0 /home/ado19/public_html/api/fetch_exercises.php(17): mysqli->query('SELECT Exercise...')
+#1 {main}
+  thrown in /home/ado19/public_html/api/fetch_exercises.php on line 17
+[20-Apr-2025 23:31:27 UTC] PHP Warning:  Undefined variable $dbname in /home/ado19/public_html/api/save_routine.php on line 11
+[20-Apr-2025 23:31:27 UTC] PHP Warning:  Undefined variable $username in /home/ado19/public_html/api/save_routine.php on line 11
+[20-Apr-2025 23:31:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'brighton01.reclaimhosting.com' (using password: YES) in /home/ado19/public_html/api/save_routine.php:11
+Stack trace:
+#0 /home/ado19/public_html/api/save_routine.php(11): PDO->__construct('mysql:host=165....', NULL, 'Rachel-1971')
+#1 {main}
+  thrown in /home/ado19/public_html/api/save_routine.php on line 11
+[28-Apr-2025 22:21:13 UTC] PHP Warning:  Undefined variable $db in /home/ado19/public_html/api/Fetch_Routines.php on line 11
+[28-Apr-2025 22:21:13 UTC] PHP Warning:  Undefined variable $user in /home/ado19/public_html/api/Fetch_Routines.php on line 11
+[28-Apr-2025 22:21:13 UTC] PHP Warning:  Undefined variable $pass in /home/ado19/public_html/api/Fetch_Routines.php on line 11
+[28-Apr-2025 22:22:19 UTC] PHP Warning:  Undefined variable $db in /home/ado19/public_html/api/Fetch_Routines.php on line 11
+[28-Apr-2025 22:22:19 UTC] PHP Warning:  Undefined variable $user in /home/ado19/public_html/api/Fetch_Routines.php on line 11
+[28-Apr-2025 22:22:19 UTC] PHP Warning:  Undefined variable $pass in /home/ado19/public_html/api/Fetch_Routines.php on line 11
+[03-May-2025 12:49:49 UTC] Received User_ID: 11
+[03-May-2025 12:49:49 UTC] Fetched routines: {"62":{"Routine_ID":62,"User_ID":11,"Routine_Name":"fufuyf","Routine_Description":"yuguyg","Exercises":[{"Exercise_ID":6,"Set_Count":1}]},"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]}}
+[03-May-2025 13:00:43 UTC] Received User_ID: 11
+[03-May-2025 13:00:43 UTC] Fetched routines: {"62":{"Routine_ID":62,"User_ID":11,"Routine_Name":"fufuyf","Routine_Description":"yuguyg","Exercises":[{"Exercise_ID":6,"Set_Count":1}]},"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]}}
+[03-May-2025 13:07:01 UTC] Received User_ID: 11
+[03-May-2025 13:07:01 UTC] Fetched routines: {"62":{"Routine_ID":62,"User_ID":11,"Routine_Name":"fufuyf","Routine_Description":"yuguyg","Exercises":[{"Exercise_ID":6,"Set_Count":1}]},"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]}}
+[03-May-2025 13:29:08 UTC] Received User_ID: 11
+[03-May-2025 13:29:08 UTC] Fetched routines: {"62":{"Routine_ID":62,"User_ID":11,"Routine_Name":"fufuyf","Routine_Description":"yuguyg","Exercises":[{"Exercise_ID":6,"Set_Count":1}]},"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]}}
+[03-May-2025 15:45:59 UTC] Received User_ID: 11
+[03-May-2025 15:45:59 UTC] Fetched routines: {"62":{"Routine_ID":62,"User_ID":11,"Routine_Name":"fufuyf","Routine_Description":"yuguyg","Exercises":[{"Exercise_ID":6,"Set_Count":1}]},"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]}}
+[03-May-2025 16:31:06 UTC] Received User_ID: 11
+[03-May-2025 16:31:06 UTC] Fetched routines: {"62":{"Routine_ID":62,"User_ID":11,"Routine_Name":"fufuyf","Routine_Description":"yuguyg","Exercises":[{"Exercise_ID":6,"Set_Count":1}]},"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]}}
+[03-May-2025 17:24:51 UTC] Received User_ID: 11
+[03-May-2025 17:24:51 UTC] Fetched routines: {"62":{"Routine_ID":62,"User_ID":11,"Routine_Name":"fufuyf","Routine_Description":"yuguyg","Exercises":[{"Exercise_ID":6,"Set_Count":1}]},"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]}}
+[03-May-2025 17:25:26 UTC] Received User_ID: 11
+[03-May-2025 17:25:26 UTC] Fetched routines: {"62":{"Routine_ID":62,"User_ID":11,"Routine_Name":"fufuyf","Routine_Description":"yuguyg","Exercises":[{"Exercise_ID":6,"Set_Count":1}]},"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]}}
+[03-May-2025 17:34:47 UTC] Received User_ID: 11
+[03-May-2025 17:34:47 UTC] Fetched routines: {"62":{"Routine_ID":62,"User_ID":11,"Routine_Name":"fufuyf","Routine_Description":"yuguyg","Exercises":[{"Exercise_ID":6,"Set_Count":1}]},"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]}}
+[03-May-2025 17:40:16 UTC] Received User_ID: 11
+[03-May-2025 17:40:16 UTC] Fetched routines: {"62":{"Routine_ID":62,"User_ID":11,"Routine_Name":"fufuyf","Routine_Description":"yuguyg","Exercises":[{"Exercise_ID":6,"Set_Count":1}]},"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]}}
+[03-May-2025 17:43:45 UTC] Received User_ID: 11
+[03-May-2025 17:43:45 UTC] Fetched routines: {"62":{"Routine_ID":62,"User_ID":11,"Routine_Name":"fufuyf","Routine_Description":"yuguyg","Exercises":[{"Exercise_ID":6,"Set_Count":1}]},"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]}}
+[03-May-2025 19:19:28 UTC] Received User_ID: 11
+[03-May-2025 19:19:28 UTC] Fetched routines: {"62":{"Routine_ID":62,"User_ID":11,"Routine_Name":"fufuyf","Routine_Description":"yuguyg","Exercises":[{"Exercise_ID":6,"Set_Count":1}]},"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]}}
+[03-May-2025 19:26:03 UTC] Received User_ID: 11
+[03-May-2025 19:26:03 UTC] Fetched routines: {"62":{"Routine_ID":62,"User_ID":11,"Routine_Name":"fufuyf","Routine_Description":"yuguyg","Exercises":[{"Exercise_ID":6,"Set_Count":1}]},"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]}}
+[03-May-2025 19:45:22 UTC] Received User_ID: 11
+[03-May-2025 19:45:22 UTC] Fetched routines: {"62":{"Routine_ID":62,"User_ID":11,"Routine_Name":"fufuyf","Routine_Description":"yuguyg","Exercises":[{"Exercise_ID":6,"Set_Count":1}]},"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]}}
+[03-May-2025 19:48:13 UTC] Received User_ID: 11
+[03-May-2025 19:48:13 UTC] Fetched routines: {"62":{"Routine_ID":62,"User_ID":11,"Routine_Name":"fufuyf","Routine_Description":"yuguyg","Exercises":[{"Exercise_ID":6,"Set_Count":1}]},"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]}}
+[03-May-2025 20:04:14 UTC] Received User_ID: 11
+[03-May-2025 20:04:14 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[03-May-2025 20:16:26 UTC] Received User_ID: 11
+[03-May-2025 20:16:26 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[03-May-2025 20:22:53 UTC] Received User_ID: 11
+[03-May-2025 20:22:53 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[03-May-2025 20:26:40 UTC] Received User_ID: 11
+[03-May-2025 20:26:40 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[03-May-2025 20:28:16 UTC] Received User_ID: 11
+[03-May-2025 20:28:16 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[03-May-2025 20:28:18 UTC] Incoming request: {"routine_id":"66"}
+[03-May-2025 20:28:18 UTC] Routine_ID: 66
+[03-May-2025 20:28:18 UTC] Database error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ado19_GymApp.Exercises' doesn't exist
+[03-May-2025 20:30:55 UTC] Incoming request: {"routine_id":"66"}
+[03-May-2025 20:30:55 UTC] Routine_ID: 66
+[03-May-2025 20:42:18 UTC] Received User_ID: 11
+[03-May-2025 20:42:18 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[03-May-2025 20:42:20 UTC] Incoming request: {"routine_id":"66"}
+[03-May-2025 20:42:20 UTC] Routine_ID: 66
+[03-May-2025 20:50:11 UTC] Received User_ID: 11
+[03-May-2025 20:50:11 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[03-May-2025 20:50:12 UTC] Incoming request: {"routine_id":"66"}
+[03-May-2025 20:50:12 UTC] Routine_ID: 66
+[03-May-2025 20:53:03 UTC] Received User_ID: 11
+[03-May-2025 20:53:03 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[03-May-2025 20:53:04 UTC] Incoming request: {"routine_id":"66"}
+[03-May-2025 20:53:04 UTC] Routine_ID: 66
+[04-May-2025 22:33:58 UTC] Received User_ID: 11
+[04-May-2025 22:33:58 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]}}
+[04-May-2025 22:33:59 UTC] Incoming request: {"routine_id":"66"}
+[04-May-2025 22:33:59 UTC] Routine_ID: 66
+[05-May-2025 01:27:31 UTC] Received User_ID: 11
+[05-May-2025 01:27:31 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[05-May-2025 01:27:33 UTC] Incoming request: {"routine_id":"66"}
+[05-May-2025 01:27:33 UTC] Routine_ID: 66
+[05-May-2025 01:27:45 UTC] Received User_ID: 11
+[05-May-2025 01:27:45 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[05-May-2025 01:27:47 UTC] Incoming request: {"routine_id":"66"}
+[05-May-2025 01:27:47 UTC] Routine_ID: 66
+[05-May-2025 01:29:34 UTC] Received User_ID: 11
+[05-May-2025 01:29:34 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[05-May-2025 01:29:36 UTC] Incoming request: {"routine_id":"66"}
+[05-May-2025 01:29:36 UTC] Routine_ID: 66
+[05-May-2025 01:30:50 UTC] Received User_ID: 11
+[05-May-2025 01:30:50 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[05-May-2025 01:30:52 UTC] Incoming request: {"routine_id":"66"}
+[05-May-2025 01:30:52 UTC] Routine_ID: 66
+[05-May-2025 01:32:11 UTC] Received User_ID: 11
+[05-May-2025 01:32:11 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[05-May-2025 01:32:13 UTC] Incoming request: {"routine_id":"66"}
+[05-May-2025 01:32:13 UTC] Routine_ID: 66
+[05-May-2025 11:11:07 UTC] Received User_ID: 11
+[05-May-2025 11:11:07 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[05-May-2025 11:11:08 UTC] Incoming request: {"routine_id":"66"}
+[05-May-2025 11:11:08 UTC] Routine_ID: 66
+[05-May-2025 11:13:23 UTC] Received User_ID: 11
+[05-May-2025 11:13:23 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[05-May-2025 11:13:24 UTC] Incoming request: {"routine_id":"66"}
+[05-May-2025 11:13:24 UTC] Routine_ID: 66
+[05-May-2025 11:17:06 UTC] Received User_ID: 11
+[05-May-2025 11:17:06 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[05-May-2025 11:17:08 UTC] Incoming request: {"routine_id":"66"}
+[05-May-2025 11:17:08 UTC] Routine_ID: 66
+[05-May-2025 11:18:03 UTC] Received User_ID: 11
+[05-May-2025 11:18:03 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[05-May-2025 11:18:05 UTC] Incoming request: {"routine_id":"66"}
+[05-May-2025 11:18:05 UTC] Routine_ID: 66
+[05-May-2025 11:28:14 UTC] Received User_ID: 11
+[05-May-2025 11:28:14 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]}}
+[05-May-2025 11:28:15 UTC] Incoming request: {"routine_id":"66"}
+[05-May-2025 11:28:15 UTC] Routine_ID: 66
+[05-May-2025 11:38:32 UTC] Received User_ID: 11
+[05-May-2025 11:38:32 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[05-May-2025 11:38:34 UTC] Incoming request: {"routine_id":"66"}
+[05-May-2025 11:38:34 UTC] Routine_ID: 66
+[05-May-2025 11:50:47 UTC] Received User_ID: 11
+[05-May-2025 11:50:47 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[05-May-2025 11:50:50 UTC] Incoming request: {"routine_id":"66"}
+[05-May-2025 11:50:50 UTC] Routine_ID: 66
+[05-May-2025 11:56:38 UTC] Received User_ID: 11
+[05-May-2025 11:56:38 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[05-May-2025 11:56:39 UTC] Incoming request: {"routine_id":"66"}
+[05-May-2025 11:56:39 UTC] Routine_ID: 66
+[05-May-2025 11:58:45 UTC] Received User_ID: 11
+[05-May-2025 11:58:45 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[05-May-2025 11:58:46 UTC] Incoming request: {"routine_id":"66"}
+[05-May-2025 11:58:46 UTC] Routine_ID: 66
+[05-May-2025 12:04:01 UTC] Received User_ID: 11
+[05-May-2025 12:04:01 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[05-May-2025 12:04:03 UTC] Incoming request: {"routine_id":"66"}
+[05-May-2025 12:04:03 UTC] Routine_ID: 66
+[05-May-2025 19:38:35 UTC] Received User_ID: 11
+[05-May-2025 19:38:35 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]}}
+[05-May-2025 19:39:07 UTC] Received User_ID: 11
+[05-May-2025 19:39:07 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":6,"Set_Count":3},{"Exercise_ID":12,"Set_Count":3}]}}
+[05-May-2025 19:39:09 UTC] Incoming request: {"routine_id":"67"}
+[05-May-2025 19:39:09 UTC] Routine_ID: 67
+[05-May-2025 21:59:10 UTC] Received User_ID: 11
+[05-May-2025 21:59:10 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]}}
+[05-May-2025 21:59:12 UTC] Incoming request: {"routine_id":"66"}
+[05-May-2025 21:59:12 UTC] Routine_ID: 66
+[06-May-2025 19:23:23 UTC] PHP Warning:  Undefined variable $username in /home/ado19/public_html/api/Update_Preferences.php on line 8
+[06-May-2025 19:23:23 UTC] PHP Warning:  Undefined variable $dbname in /home/ado19/public_html/api/Update_Preferences.php on line 8
+[06-May-2025 19:23:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'brighton01.reclaimhosting.com' (using password: YES) in /home/ado19/public_html/api/Update_Preferences.php:8
+Stack trace:
+#0 /home/ado19/public_html/api/Update_Preferences.php(8): mysqli->__construct('165.227.235.122', NULL, 'Rachel-1971', NULL)
+#1 {main}
+  thrown in /home/ado19/public_html/api/Update_Preferences.php on line 8
+[06-May-2025 19:25:43 UTC] PHP Warning:  Undefined variable $username in /home/ado19/public_html/api/Update_Preferences.php on line 8
+[06-May-2025 19:25:43 UTC] PHP Warning:  Undefined variable $dbname in /home/ado19/public_html/api/Update_Preferences.php on line 8
+[06-May-2025 19:25:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'brighton01.reclaimhosting.com' (using password: YES) in /home/ado19/public_html/api/Update_Preferences.php:8
+Stack trace:
+#0 /home/ado19/public_html/api/Update_Preferences.php(8): mysqli->__construct('165.227.235.122', NULL, 'Rachel-1971', NULL)
+#1 {main}
+  thrown in /home/ado19/public_html/api/Update_Preferences.php on line 8
+[06-May-2025 19:31:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ado19_GymApp.users' doesn't exist in /home/ado19/public_html/api/Update_Preferences.php:29
+Stack trace:
+#0 /home/ado19/public_html/api/Update_Preferences.php(29): mysqli->prepare('UPDATE users SE...')
+#1 {main}
+  thrown in /home/ado19/public_html/api/Update_Preferences.php on line 29
+[06-May-2025 19:32:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ado19_GymApp.users' doesn't exist in /home/ado19/public_html/api/Update_Preferences.php:29
+Stack trace:
+#0 /home/ado19/public_html/api/Update_Preferences.php(29): mysqli->prepare('UPDATE users SE...')
+#1 {main}
+  thrown in /home/ado19/public_html/api/Update_Preferences.php on line 29
+[06-May-2025 19:41:51 UTC] Preparing SQL: UPDATE User SET Rest_Timer = ?, Theme = ?, Kg_Or_Lbs = ? WHERE User_ID = ?
+[06-May-2025 19:45:18 UTC] Preparing SQL: UPDATE User SET Rest_Timer = ?, Theme = ?, Kg_Or_Lbs = ? WHERE User_ID = ?
+[06-May-2025 19:45:23 UTC] Preparing SQL: UPDATE User SET Rest_Timer = ?, Theme = ?, Kg_Or_Lbs = ? WHERE User_ID = ?
+[06-May-2025 19:47:25 UTC] Preparing SQL: UPDATE User SET Rest_Timer = ?, Theme = ?, Kg_Or_Lbs = ? WHERE User_ID = ?
+[06-May-2025 19:50:33 UTC] Preparing SQL: UPDATE User SET Rest_Timer = ?, Theme = ?, Kg_Or_Lbs = ? WHERE User_ID = ?
+[06-May-2025 19:52:48 UTC] Preparing SQL: UPDATE User SET Rest_Timer = ?, Theme = ?, Kg_Or_Lbs = ? WHERE User_ID = ?
+[06-May-2025 19:54:53 UTC] Received User_ID: 11
+[06-May-2025 19:54:53 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]}}
+[06-May-2025 19:55:03 UTC] Preparing SQL: UPDATE User SET Rest_Timer = ?, Theme = ?, Kg_Or_Lbs = ? WHERE User_ID = ?
+[06-May-2025 19:55:08 UTC] Preparing SQL: UPDATE User SET Rest_Timer = ?, Theme = ?, Kg_Or_Lbs = ? WHERE User_ID = ?
+[06-May-2025 19:55:10 UTC] Preparing SQL: UPDATE User SET Rest_Timer = ?, Theme = ?, Kg_Or_Lbs = ? WHERE User_ID = ?
+[06-May-2025 19:56:48 UTC] Preparing SQL: UPDATE User SET Rest_Timer = ?, Theme = ?, Kg_Or_Lbs = ? WHERE User_ID = ?
+[06-May-2025 19:59:28 UTC] Preparing SQL: UPDATE User SET Rest_Timer = ?, Theme = ?, Kg_Or_Lbs = ? WHERE User_ID = ?
+[06-May-2025 19:59:34 UTC] Preparing SQL: UPDATE User SET Rest_Timer = ?, Theme = ?, Kg_Or_Lbs = ? WHERE User_ID = ?
+[06-May-2025 19:59:38 UTC] Preparing SQL: UPDATE User SET Rest_Timer = ?, Theme = ?, Kg_Or_Lbs = ? WHERE User_ID = ?
+[06-May-2025 20:04:04 UTC] Received User_ID: 11
+[06-May-2025 20:04:04 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]}}
+[06-May-2025 20:08:20 UTC] Preparing SQL: UPDATE User SET Rest_Timer = ?, Theme = ?, Kg_Or_Lbs = ? WHERE User_ID = ?
+[07-May-2025 00:10:36 UTC] Received User_ID: 11
+[07-May-2025 00:10:36 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]}}
+[07-May-2025 01:03:38 UTC] Received User_ID: 11
+[07-May-2025 01:03:38 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]}}
+[07-May-2025 01:16:02 UTC] Received User_ID: 11
+[07-May-2025 01:16:02 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]}}
+[07-May-2025 01:29:40 UTC] Received User_ID: 11
+[07-May-2025 01:29:40 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]}}
+[07-May-2025 01:30:16 UTC] Received User_ID: 11
+[07-May-2025 01:30:16 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"70":{"Routine_ID":70,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":1},{"Exercise_ID":1,"Set_Count":3}]}}
+[07-May-2025 01:33:37 UTC] Received User_ID: 11
+[07-May-2025 01:33:37 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":6,"Set_Count":3},{"Exercise_ID":12,"Set_Count":3}]},"70":{"Routine_ID":70,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":3},{"Exercise_ID":2,"Set_Count":1}]},"71":{"Routine_ID":71,"User_ID":11,"Routine_Name":"htrehrt","Routine_Description":"rthrthrth","Exercises":[{"Exercise_ID":1,"Set_Count":1}]}}
+[07-May-2025 01:58:57 UTC] Received User_ID: 11
+[07-May-2025 01:58:57 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":1,"Set_Count":2},{"Exercise_ID":2,"Set_Count":3}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":6,"Set_Count":3},{"Exercise_ID":12,"Set_Count":3}]}}
+[07-May-2025 01:59:18 UTC] Received User_ID: 11
+[07-May-2025 01:59:18 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 12:54:18 UTC] Received User_ID: 11
+[07-May-2025 12:54:18 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 12:54:21 UTC] Incoming request: {"routine_id":"72"}
+[07-May-2025 12:54:21 UTC] Routine_ID: 72
+[07-May-2025 13:27:26 UTC] Received User_ID: 11
+[07-May-2025 13:27:26 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 13:27:27 UTC] Incoming request: {"routine_id":"72"}
+[07-May-2025 13:27:27 UTC] Routine_ID: 72
+[07-May-2025 17:55:06 UTC] Received User_ID: 11
+[07-May-2025 17:55:06 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 17:55:08 UTC] Incoming request: {"routine_id":"66"}
+[07-May-2025 17:55:08 UTC] Routine_ID: 66
+[07-May-2025 17:55:13 UTC] Incoming request: {"routine_id":"72"}
+[07-May-2025 17:55:13 UTC] Routine_ID: 72
+[07-May-2025 18:37:49 UTC] Received User_ID: 11
+[07-May-2025 18:37:49 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 18:37:51 UTC] Incoming request: {"routine_id":"72"}
+[07-May-2025 18:37:51 UTC] Routine_ID: 72
+[07-May-2025 19:48:20 UTC] Received User_ID: 11
+[07-May-2025 19:48:20 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 19:48:22 UTC] Incoming request: {"routine_id":"72"}
+[07-May-2025 19:48:22 UTC] Routine_ID: 72
+[07-May-2025 19:49:28 UTC] Received User_ID: 11
+[07-May-2025 19:49:28 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 19:49:34 UTC] Incoming request: {"routine_id":"72"}
+[07-May-2025 19:49:34 UTC] Routine_ID: 72
+[07-May-2025 19:50:35 UTC] Received User_ID: 11
+[07-May-2025 19:50:35 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 19:50:38 UTC] Incoming request: {"routine_id":"72"}
+[07-May-2025 19:50:38 UTC] Routine_ID: 72
+[07-May-2025 19:54:36 UTC] Received User_ID: 11
+[07-May-2025 19:54:36 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 19:54:38 UTC] Incoming request: {"routine_id":"72"}
+[07-May-2025 19:54:38 UTC] Routine_ID: 72
+[07-May-2025 20:22:25 UTC] Received User_ID: 11
+[07-May-2025 20:22:25 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 20:22:27 UTC] Incoming request: {"routine_id":"72"}
+[07-May-2025 20:22:27 UTC] Routine_ID: 72
+[07-May-2025 21:14:08 UTC] Received User_ID: 11
+[07-May-2025 21:14:08 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 21:14:10 UTC] Incoming request: {"routine_id":"72"}
+[07-May-2025 21:14:10 UTC] Routine_ID: 72
+[07-May-2025 21:19:08 UTC] Received User_ID: 11
+[07-May-2025 21:19:08 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 21:19:10 UTC] Incoming request: {"routine_id":"72"}
+[07-May-2025 21:19:10 UTC] Routine_ID: 72
+[07-May-2025 21:32:44 UTC] Received User_ID: 11
+[07-May-2025 21:32:44 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 21:32:46 UTC] Incoming request: {"routine_id":"72"}
+[07-May-2025 21:32:46 UTC] Routine_ID: 72
+[07-May-2025 21:40:50 UTC] Received User_ID: 11
+[07-May-2025 21:40:50 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 21:40:52 UTC] Incoming request: {"routine_id":"72"}
+[07-May-2025 21:40:52 UTC] Routine_ID: 72
+[07-May-2025 21:41:03 UTC] Received User_ID: 11
+[07-May-2025 21:41:03 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 21:41:07 UTC] Incoming request: {"routine_id":"72"}
+[07-May-2025 21:41:07 UTC] Routine_ID: 72
+[07-May-2025 21:45:12 UTC] Received User_ID: 11
+[07-May-2025 21:45:12 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 21:45:14 UTC] Incoming request: {"routine_id":"72"}
+[07-May-2025 21:45:14 UTC] Routine_ID: 72
+[07-May-2025 21:45:23 UTC] Received User_ID: 11
+[07-May-2025 21:45:23 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 21:45:27 UTC] Incoming request: {"routine_id":"72"}
+[07-May-2025 21:45:27 UTC] Routine_ID: 72
+[07-May-2025 21:58:34 UTC] Received User_ID: 11
+[07-May-2025 21:58:34 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 21:58:36 UTC] Incoming request: {"routine_id":"72"}
+[07-May-2025 21:58:36 UTC] Routine_ID: 72
+[07-May-2025 21:58:49 UTC] Received User_ID: 11
+[07-May-2025 21:58:49 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 21:58:55 UTC] Incoming request: {"routine_id":"72"}
+[07-May-2025 21:58:55 UTC] Routine_ID: 72
+[07-May-2025 22:11:34 UTC] Received User_ID: 11
+[07-May-2025 22:11:34 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 22:11:36 UTC] Incoming request: {"routine_id":"72"}
+[07-May-2025 22:11:36 UTC] Routine_ID: 72
+[07-May-2025 22:11:46 UTC] Received User_ID: 11
+[07-May-2025 22:11:46 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 22:15:53 UTC] Received User_ID: 11
+[07-May-2025 22:15:53 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 22:15:56 UTC] Incoming request: {"routine_id":"72"}
+[07-May-2025 22:15:56 UTC] Routine_ID: 72
+[07-May-2025 22:24:16 UTC] Received User_ID: 11
+[07-May-2025 22:24:16 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[07-May-2025 22:24:17 UTC] Incoming request: {"routine_id":"72"}
+[07-May-2025 22:24:17 UTC] Routine_ID: 72
+[08-May-2025 01:08:21 UTC] Received User_ID: 11
+[08-May-2025 01:08:21 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[08-May-2025 01:08:24 UTC] Incoming request: {"routine_id":"67"}
+[08-May-2025 01:08:24 UTC] Routine_ID: 67
+[08-May-2025 01:18:25 UTC] Received User_ID: 11
+[08-May-2025 01:18:25 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[08-May-2025 01:18:37 UTC] Incoming request: {"routine_id":"67"}
+[08-May-2025 01:18:37 UTC] Routine_ID: 67
+[08-May-2025 01:18:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'username'@'localhost' (using password: YES) in /home/ado19/public_html/api/completed_routine.php:17
+Stack trace:
+#0 /home/ado19/public_html/api/completed_routine.php(17): mysqli->__construct('localhost', 'username', 'password', 'database')
+#1 {main}
+  thrown in /home/ado19/public_html/api/completed_routine.php on line 17
+[08-May-2025 01:21:11 UTC] Incoming request: {"routine_id":"67"}
+[08-May-2025 01:21:11 UTC] Routine_ID: 67
+[08-May-2025 01:22:01 UTC] Received User_ID: 11
+[08-May-2025 01:22:01 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[08-May-2025 01:22:04 UTC] Incoming request: {"routine_id":"67"}
+[08-May-2025 01:22:04 UTC] Routine_ID: 67
+[08-May-2025 01:22:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'username'@'localhost' (using password: YES) in /home/ado19/public_html/api/completed_routine.php:17
+Stack trace:
+#0 /home/ado19/public_html/api/completed_routine.php(17): mysqli->__construct('localhost', 'username', 'password', 'database')
+#1 {main}
+  thrown in /home/ado19/public_html/api/completed_routine.php on line 17
+[08-May-2025 01:25:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ado19_GymApp.session' doesn't exist in /home/ado19/public_html/api/completed_routine.php:30
+Stack trace:
+#0 /home/ado19/public_html/api/completed_routine.php(30): mysqli->prepare('INSERT INTO ses...')
+#1 {main}
+  thrown in /home/ado19/public_html/api/completed_routine.php on line 30
+[08-May-2025 01:27:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'username'@'localhost' (using password: YES) in /home/ado19/public_html/api/completed_routine.php:17
+Stack trace:
+#0 /home/ado19/public_html/api/completed_routine.php(17): mysqli->__construct('localhost', 'username', 'password', 'database')
+#1 {main}
+  thrown in /home/ado19/public_html/api/completed_routine.php on line 17
+[08-May-2025 01:31:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'username'@'localhost' (using password: YES) in /home/ado19/public_html/api/completed_routine.php:17
+Stack trace:
+#0 /home/ado19/public_html/api/completed_routine.php(17): mysqli->__construct('localhost', 'username', 'password', 'database')
+#1 {main}
+  thrown in /home/ado19/public_html/api/completed_routine.php on line 17
+[08-May-2025 11:16:39 UTC] Received User_ID: 11
+[08-May-2025 11:16:39 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[08-May-2025 11:20:59 UTC] Received User_ID: 11
+[08-May-2025 11:20:59 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[08-May-2025 11:21:00 UTC] Received User_ID: 11
+[08-May-2025 11:21:00 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[08-May-2025 11:21:02 UTC] Incoming request: {"routine_id":"72"}
+[08-May-2025 11:21:02 UTC] Routine_ID: 72
+[08-May-2025 11:22:28 UTC] Script started
+[08-May-2025 11:22:28 UTC] Exercise History Data: []
+[08-May-2025 11:25:33 UTC] Script started
+[08-May-2025 11:25:33 UTC] Exercise History Data: []
+[08-May-2025 11:28:06 UTC] Received User_ID: 11
+[08-May-2025 11:28:06 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[08-May-2025 11:28:08 UTC] Received User_ID: 11
+[08-May-2025 11:28:08 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[08-May-2025 11:28:10 UTC] Incoming request: {"routine_id":"72"}
+[08-May-2025 11:28:10 UTC] Routine_ID: 72
+[08-May-2025 12:21:38 UTC] Received User_ID: 11
+[08-May-2025 12:21:38 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[08-May-2025 12:21:40 UTC] Received User_ID: 11
+[08-May-2025 12:21:40 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[08-May-2025 12:21:41 UTC] Incoming request: {"routine_id":"72"}
+[08-May-2025 12:21:41 UTC] Routine_ID: 72
+[08-May-2025 12:25:51 UTC] Received User_ID: 11
+[08-May-2025 12:25:51 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[08-May-2025 12:25:52 UTC] Received User_ID: 11
+[08-May-2025 12:25:52 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[08-May-2025 12:25:54 UTC] Incoming request: {"routine_id":"72"}
+[08-May-2025 12:25:54 UTC] Routine_ID: 72
+[08-May-2025 12:33:59 UTC] Received User_ID: 11
+[08-May-2025 12:33:59 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[08-May-2025 12:34:01 UTC] Received User_ID: 11
+[08-May-2025 12:34:01 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[08-May-2025 12:34:02 UTC] Incoming request: {"routine_id":"72"}
+[08-May-2025 12:34:02 UTC] Routine_ID: 72
+[08-May-2025 12:54:34 UTC] Received User_ID: 11
+[08-May-2025 12:54:34 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[08-May-2025 12:54:36 UTC] Received User_ID: 11
+[08-May-2025 12:54:36 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[{"Exercise_ID":3,"Set_Count":2}]}}
+[08-May-2025 12:54:38 UTC] Incoming request: {"routine_id":"72"}
+[08-May-2025 12:54:38 UTC] Routine_ID: 72
+[09-May-2025 03:08:06 UTC] Received User_ID: 11
+[09-May-2025 03:08:06 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[]}}
+[09-May-2025 03:08:08 UTC] Received User_ID: 11
+[09-May-2025 03:08:08 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]},"72":{"Routine_ID":72,"User_ID":11,"Routine_Name":"regeg","Routine_Description":"grereggre","Exercises":[]}}
+[09-May-2025 03:09:20 UTC] Received User_ID: 11
+[09-May-2025 03:09:20 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]}}
+[09-May-2025 04:15:37 UTC] Incoming request: {"routine_id":"66"}
+[09-May-2025 04:15:37 UTC] Routine_ID: 66
+[09-May-2025 09:55:07 UTC] Received User_ID: 11
+[09-May-2025 09:55:07 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]}}
+[09-May-2025 09:55:13 UTC] Received User_ID: 11
+[09-May-2025 09:55:13 UTC] Fetched routines: {"66":{"Routine_ID":66,"User_ID":11,"Routine_Name":"test","Routine_Description":"test","Exercises":[{"Exercise_ID":2,"Set_Count":3},{"Exercise_ID":1,"Set_Count":2}]},"67":{"Routine_ID":67,"User_ID":11,"Routine_Name":"legday","Routine_Description":"legday","Exercises":[{"Exercise_ID":12,"Set_Count":3},{"Exercise_ID":6,"Set_Count":3}]}}

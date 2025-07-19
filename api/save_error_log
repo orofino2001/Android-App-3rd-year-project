@@ -1,0 +1,231 @@
+[25-Apr-2025 04:29:25 UTC] [DEBUG] Database connection established successfully.
+[25-Apr-2025 04:29:25 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"gwrgwe","routine_Description":"wgewgw","exercises":[{"exercise_ID":1,"set_count":2},{"exercise_ID":2,"set_count":1}]}
+[25-Apr-2025 04:29:25 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: gwrgwe, Routine Description: wgewgw, Exercises: [{"exercise_ID":1,"set_count":2},{"exercise_ID":2,"set_count":1}]
+[25-Apr-2025 04:29:25 UTC] [DEBUG] Routine saved successfully. Routine ID: 26
+[25-Apr-2025 04:29:25 UTC] PHP Warning:  Undefined array key "Exercise_ID" in /home/ado19/public_html/api/save_routine.php on line 59
+[25-Apr-2025 04:29:25 UTC] [ERROR] Invalid exercise data: {"exercise_ID":1,"set_count":2}
+[25-Apr-2025 04:29:25 UTC] [ERROR] Transaction failed: Invalid exercise data.
+[25-Apr-2025 04:31:55 UTC] [DEBUG] Database connection established successfully.
+[25-Apr-2025 04:31:55 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"gwrgwe","routine_Description":"wgewgw","exercises":[{"exercise_ID":1,"set_count":2},{"exercise_ID":2,"set_count":1}]}
+[25-Apr-2025 04:31:55 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: gwrgwe, Routine Description: wgewgw, Exercises: [{"exercise_ID":1,"set_count":2},{"exercise_ID":2,"set_count":1}]
+[25-Apr-2025 04:31:55 UTC] [DEBUG] Routine saved successfully. Routine ID: 27
+[25-Apr-2025 04:31:55 UTC] [DEBUG] Exercise added to routine. Exercise ID: 1
+[25-Apr-2025 04:31:55 UTC] [DEBUG] Exercise added to routine. Exercise ID: 2
+[26-Apr-2025 04:30:28 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 04:30:28 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"ufuy","routine_Description":"jfvujfuy","exercises":[{"exercise_ID":1,"set_count":1},{"exercise_ID":2,"set_count":1}]}
+[26-Apr-2025 04:30:28 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: ufuy, Routine Description: jfvujfuy, Exercises: [{"exercise_ID":1,"set_count":1},{"exercise_ID":2,"set_count":1}]
+[26-Apr-2025 04:30:28 UTC] [DEBUG] Routine saved successfully. Routine ID: 28
+[26-Apr-2025 04:30:28 UTC] [DEBUG] Exercise added to routine. Exercise ID: 1
+[26-Apr-2025 04:30:28 UTC] [DEBUG] Exercise added to routine. Exercise ID: 2
+[26-Apr-2025 20:19:54 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 20:19:54 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"gewgwe","routine_Description":"gewgewt","exercises":[{"exercise_ID":1,"set_count":2}]}
+[26-Apr-2025 20:19:54 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: gewgwe, Routine Description: gewgewt, Exercises: [{"exercise_ID":1,"set_count":2}]
+[26-Apr-2025 20:19:54 UTC] [DEBUG] Routine saved successfully. Routine ID: 29
+[26-Apr-2025 20:19:54 UTC] [DEBUG] Exercise added to routine. Exercise ID: 1
+[26-Apr-2025 20:24:37 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 20:24:37 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"gerwg e","routine_Description":"efwwgwer","exercises":[{"exercise_ID":1,"set_count":3},{"exercise_ID":2,"set_count":1}]}
+[26-Apr-2025 20:24:37 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: gerwg e, Routine Description: efwwgwer, Exercises: [{"exercise_ID":1,"set_count":3},{"exercise_ID":2,"set_count":1}]
+[26-Apr-2025 20:24:37 UTC] [DEBUG] Routine saved successfully. Routine ID: 30
+[26-Apr-2025 20:24:37 UTC] [DEBUG] Exercise added to routine. Exercise ID: 1
+[26-Apr-2025 20:24:37 UTC] [DEBUG] Exercise added to routine. Exercise ID: 2
+[26-Apr-2025 22:10:38 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:10:38 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"hrehre","routine_Description":"ehreheh","exercises":[{"exercise_ID":1,"set_count":1}]}
+[26-Apr-2025 22:10:38 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: hrehre, Routine Description: ehreheh, Exercises: [{"exercise_ID":1,"set_count":1}]
+[26-Apr-2025 22:10:38 UTC] [DEBUG] Routine saved successfully. Routine ID: 31
+[26-Apr-2025 22:10:38 UTC] [DEBUG] Exercise added to routine. Exercise ID: 1
+[26-Apr-2025 22:17:53 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:17:53 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"gewgw","routine_Description":"gewgwg","exercises":[{"exercise_ID":1,"set_count":2},{"exercise_ID":2,"set_count":1}]}
+[26-Apr-2025 22:17:53 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: gewgw, Routine Description: gewgwg, Exercises: [{"exercise_ID":1,"set_count":2},{"exercise_ID":2,"set_count":1}]
+[26-Apr-2025 22:17:53 UTC] [DEBUG] Routine saved successfully. Routine ID: 32
+[26-Apr-2025 22:17:53 UTC] [DEBUG] Exercise added to routine. Exercise ID: 1
+[26-Apr-2025 22:17:53 UTC] [DEBUG] Exercise added to routine. Exercise ID: 2
+[26-Apr-2025 22:21:38 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:21:38 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"fwqfqw","routine_Description":"wfqfqfq","exercises":[{"exercise_ID":1,"set_count":1}]}
+[26-Apr-2025 22:21:38 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: fwqfqw, Routine Description: wfqfqfq, Exercises: [{"exercise_ID":1,"set_count":1}]
+[26-Apr-2025 22:21:38 UTC] [DEBUG] Routine saved successfully. Routine ID: 33
+[26-Apr-2025 22:21:38 UTC] [DEBUG] Exercise added to routine. Exercise ID: 1
+[26-Apr-2025 22:25:58 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:25:58 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"ewgweg","routine_Description":"gewgwgw","exercises":[{"exercise_ID":1,"set_count":1}]}
+[26-Apr-2025 22:25:58 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: ewgweg, Routine Description: gewgwgw, Exercises: [{"exercise_ID":1,"set_count":1}]
+[26-Apr-2025 22:25:58 UTC] [DEBUG] Routine saved successfully. Routine ID: 34
+[26-Apr-2025 22:25:58 UTC] [DEBUG] Exercise added to routine. Exercise ID: 1
+[26-Apr-2025 22:27:00 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:27:00 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"fwqfq","routine_Description":"fwqwfqqf","exercises":[]}
+[26-Apr-2025 22:27:00 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: fwqfq, Routine Description: fwqwfqqf, Exercises: []
+[26-Apr-2025 22:27:00 UTC] [DEBUG] Routine saved successfully. Routine ID: 35
+[26-Apr-2025 22:27:03 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:27:03 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"fwqfq","routine_Description":"fwqwfqqf","exercises":[]}
+[26-Apr-2025 22:27:03 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: fwqfq, Routine Description: fwqwfqqf, Exercises: []
+[26-Apr-2025 22:27:04 UTC] [DEBUG] Routine saved successfully. Routine ID: 36
+[26-Apr-2025 22:27:05 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:27:05 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"fwqfq","routine_Description":"fwqwfqqf","exercises":[]}
+[26-Apr-2025 22:27:05 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: fwqfq, Routine Description: fwqwfqqf, Exercises: []
+[26-Apr-2025 22:27:05 UTC] [DEBUG] Routine saved successfully. Routine ID: 37
+[26-Apr-2025 22:27:06 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:27:06 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"fwqfq","routine_Description":"fwqwfqqf","exercises":[]}
+[26-Apr-2025 22:27:06 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: fwqfq, Routine Description: fwqwfqqf, Exercises: []
+[26-Apr-2025 22:27:06 UTC] [DEBUG] Routine saved successfully. Routine ID: 38
+[26-Apr-2025 22:27:06 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:27:06 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"fwqfq","routine_Description":"fwqwfqqf","exercises":[]}
+[26-Apr-2025 22:27:06 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: fwqfq, Routine Description: fwqwfqqf, Exercises: []
+[26-Apr-2025 22:27:06 UTC] [DEBUG] Routine saved successfully. Routine ID: 39
+[26-Apr-2025 22:27:06 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:27:06 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"fwqfq","routine_Description":"fwqwfqqf","exercises":[]}
+[26-Apr-2025 22:27:06 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: fwqfq, Routine Description: fwqwfqqf, Exercises: []
+[26-Apr-2025 22:27:06 UTC] [DEBUG] Routine saved successfully. Routine ID: 40
+[26-Apr-2025 22:27:06 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"fwqfq","routine_Description":"fwqwfqqf","exercises":[]}
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: fwqfq, Routine Description: fwqwfqqf, Exercises: []
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Routine saved successfully. Routine ID: 41
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"fwqfq","routine_Description":"fwqwfqqf","exercises":[]}
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: fwqfq, Routine Description: fwqwfqqf, Exercises: []
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Routine saved successfully. Routine ID: 42
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"fwqfq","routine_Description":"fwqwfqqf","exercises":[]}
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: fwqfq, Routine Description: fwqwfqqf, Exercises: []
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Routine saved successfully. Routine ID: 43
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"fwqfq","routine_Description":"fwqwfqqf","exercises":[]}
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: fwqfq, Routine Description: fwqwfqqf, Exercises: []
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Routine saved successfully. Routine ID: 44
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"fwqfq","routine_Description":"fwqwfqqf","exercises":[]}
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: fwqfq, Routine Description: fwqwfqqf, Exercises: []
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Routine saved successfully. Routine ID: 45
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"fwqfq","routine_Description":"fwqwfqqf","exercises":[]}
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: fwqfq, Routine Description: fwqwfqqf, Exercises: []
+[26-Apr-2025 22:27:07 UTC] [DEBUG] Routine saved successfully. Routine ID: 46
+[26-Apr-2025 22:27:08 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:27:08 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"fwqfq","routine_Description":"fwqwfqqf","exercises":[]}
+[26-Apr-2025 22:27:08 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: fwqfq, Routine Description: fwqwfqqf, Exercises: []
+[26-Apr-2025 22:27:08 UTC] [DEBUG] Routine saved successfully. Routine ID: 47
+[26-Apr-2025 22:27:08 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:27:08 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"fwqfq","routine_Description":"fwqwfqqf","exercises":[]}
+[26-Apr-2025 22:27:08 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: fwqfq, Routine Description: fwqwfqqf, Exercises: []
+[26-Apr-2025 22:27:08 UTC] [DEBUG] Routine saved successfully. Routine ID: 48
+[26-Apr-2025 22:27:08 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:27:08 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"fwqfq","routine_Description":"fwqwfqqf","exercises":[]}
+[26-Apr-2025 22:27:08 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: fwqfq, Routine Description: fwqwfqqf, Exercises: []
+[26-Apr-2025 22:27:08 UTC] [DEBUG] Routine saved successfully. Routine ID: 49
+[26-Apr-2025 22:27:08 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:27:08 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"fwqfq","routine_Description":"fwqwfqqf","exercises":[]}
+[26-Apr-2025 22:27:08 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: fwqfq, Routine Description: fwqwfqqf, Exercises: []
+[26-Apr-2025 22:27:08 UTC] [DEBUG] Routine saved successfully. Routine ID: 50
+[26-Apr-2025 22:27:08 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:27:08 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"fwqfq","routine_Description":"fwqwfqqf","exercises":[]}
+[26-Apr-2025 22:27:08 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: fwqfq, Routine Description: fwqwfqqf, Exercises: []
+[26-Apr-2025 22:27:08 UTC] [DEBUG] Routine saved successfully. Routine ID: 51
+[26-Apr-2025 22:37:39 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:37:39 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"ytfytdyt","routine_Description":"tgdtrdr","exercises":[{"exercise_ID":1,"set_count":2},{"exercise_ID":2,"set_count":1}]}
+[26-Apr-2025 22:37:39 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: ytfytdyt, Routine Description: tgdtrdr, Exercises: [{"exercise_ID":1,"set_count":2},{"exercise_ID":2,"set_count":1}]
+[26-Apr-2025 22:37:39 UTC] [DEBUG] Routine saved successfully. Routine ID: 52
+[26-Apr-2025 22:37:39 UTC] [DEBUG] Exercise added to routine. Exercise ID: 1
+[26-Apr-2025 22:37:39 UTC] [DEBUG] Exercise added to routine. Exercise ID: 2
+[26-Apr-2025 22:44:48 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:44:48 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"igfuy","routine_Description":"fgfd","exercises":[{"exercise_ID":4,"set_count":2}]}
+[26-Apr-2025 22:44:48 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: igfuy, Routine Description: fgfd, Exercises: [{"exercise_ID":4,"set_count":2}]
+[26-Apr-2025 22:44:48 UTC] [DEBUG] Routine saved successfully. Routine ID: 53
+[26-Apr-2025 22:44:48 UTC] [DEBUG] Exercise added to routine. Exercise ID: 4
+[26-Apr-2025 22:49:55 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:49:55 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"ytdftyrd","routine_Description":"fcdytd","exercises":[{"exercise_ID":1,"set_count":2},{"exercise_ID":2,"set_count":1}]}
+[26-Apr-2025 22:49:55 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: ytdftyrd, Routine Description: fcdytd, Exercises: [{"exercise_ID":1,"set_count":2},{"exercise_ID":2,"set_count":1}]
+[26-Apr-2025 22:49:55 UTC] [DEBUG] Routine saved successfully. Routine ID: 54
+[26-Apr-2025 22:49:55 UTC] [DEBUG] Exercise added to routine. Exercise ID: 1
+[26-Apr-2025 22:49:55 UTC] [DEBUG] Exercise added to routine. Exercise ID: 2
+[26-Apr-2025 22:50:58 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:50:58 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"hsdty","routine_Description":"fguyfuyf","exercises":[{"exercise_ID":1,"set_count":1}]}
+[26-Apr-2025 22:50:58 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: hsdty, Routine Description: fguyfuyf, Exercises: [{"exercise_ID":1,"set_count":1}]
+[26-Apr-2025 22:50:58 UTC] [DEBUG] Routine saved successfully. Routine ID: 55
+[26-Apr-2025 22:50:58 UTC] [DEBUG] Exercise added to routine. Exercise ID: 1
+[26-Apr-2025 22:57:40 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 22:57:40 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"ekjrghkeurhgeuir","routine_Description":"bgwejhkbewgjhkbgwe","exercises":[{"exercise_ID":2,"set_count":1}]}
+[26-Apr-2025 22:57:40 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: ekjrghkeurhgeuir, Routine Description: bgwejhkbewgjhkbgwe, Exercises: [{"exercise_ID":2,"set_count":1}]
+[26-Apr-2025 22:57:40 UTC] [DEBUG] Routine saved successfully. Routine ID: 56
+[26-Apr-2025 22:57:40 UTC] [DEBUG] Exercise added to routine. Exercise ID: 2
+[26-Apr-2025 23:06:07 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 23:06:07 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"oiewjfoiwjhfgoihwe","routine_Description":"gewhgoiwehgo","exercises":[{"exercise_ID":1,"set_count":1}]}
+[26-Apr-2025 23:06:07 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: oiewjfoiwjhfgoihwe, Routine Description: gewhgoiwehgo, Exercises: [{"exercise_ID":1,"set_count":1}]
+[26-Apr-2025 23:06:07 UTC] [DEBUG] Routine saved successfully. Routine ID: 57
+[26-Apr-2025 23:06:07 UTC] [DEBUG] Exercise added to routine. Exercise ID: 1
+[26-Apr-2025 23:11:43 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 23:11:43 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"9giuewghiweuh","routine_Description":"woeghwiuegh","exercises":[{"exercise_ID":1,"set_count":1}]}
+[26-Apr-2025 23:11:43 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: 9giuewghiweuh, Routine Description: woeghwiuegh, Exercises: [{"exercise_ID":1,"set_count":1}]
+[26-Apr-2025 23:11:43 UTC] [DEBUG] Routine saved successfully. Routine ID: 58
+[26-Apr-2025 23:11:43 UTC] [DEBUG] Exercise added to routine. Exercise ID: 1
+[26-Apr-2025 23:11:49 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 23:11:49 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"9giuewghiweuh","routine_Description":"woeghwiuegh","exercises":[{"exercise_ID":1,"set_count":1}]}
+[26-Apr-2025 23:11:49 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: 9giuewghiweuh, Routine Description: woeghwiuegh, Exercises: [{"exercise_ID":1,"set_count":1}]
+[26-Apr-2025 23:11:49 UTC] [DEBUG] Routine saved successfully. Routine ID: 59
+[26-Apr-2025 23:11:49 UTC] [DEBUG] Exercise added to routine. Exercise ID: 1
+[26-Apr-2025 23:15:33 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 23:15:33 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"jfguyfuytf","routine_Description":"ytyfuh","exercises":[{"exercise_ID":1,"set_count":1}]}
+[26-Apr-2025 23:15:33 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: jfguyfuytf, Routine Description: ytyfuh, Exercises: [{"exercise_ID":1,"set_count":1}]
+[26-Apr-2025 23:15:33 UTC] [DEBUG] Routine saved successfully. Routine ID: 60
+[26-Apr-2025 23:15:33 UTC] [DEBUG] Exercise added to routine. Exercise ID: 1
+[26-Apr-2025 23:18:24 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 23:18:24 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"fufuyf","routine_Description":"yuguyg","exercises":[{"exercise_ID":6,"set_count":1}]}
+[26-Apr-2025 23:18:24 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: fufuyf, Routine Description: yuguyg, Exercises: [{"exercise_ID":6,"set_count":1}]
+[26-Apr-2025 23:18:24 UTC] [DEBUG] Routine saved successfully. Routine ID: 61
+[26-Apr-2025 23:18:24 UTC] [DEBUG] Exercise added to routine. Exercise ID: 6
+[26-Apr-2025 23:24:27 UTC] [DEBUG] Database connection established successfully.
+[26-Apr-2025 23:24:27 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"fufuyf","routine_Description":"yuguyg","exercises":[{"exercise_ID":6,"set_count":1}]}
+[26-Apr-2025 23:24:27 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: fufuyf, Routine Description: yuguyg, Exercises: [{"exercise_ID":6,"set_count":1}]
+[26-Apr-2025 23:24:27 UTC] [DEBUG] Routine saved successfully. Routine ID: 62
+[26-Apr-2025 23:24:27 UTC] [DEBUG] Exercise added to routine. Exercise ID: 6
+[27-Apr-2025 00:08:01 UTC] [DEBUG] Database connection established successfully.
+[27-Apr-2025 00:08:01 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"rgege","routine_Description":"rgeegerge","exercises":[{"exercise_ID":1,"set_count":1}]}
+[27-Apr-2025 00:08:01 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: rgege, Routine Description: rgeegerge, Exercises: [{"exercise_ID":1,"set_count":1}]
+[27-Apr-2025 00:08:01 UTC] [DEBUG] Routine saved successfully. Routine ID: 63
+[27-Apr-2025 00:08:01 UTC] [DEBUG] Exercise added to routine. Exercise ID: 1
+[27-Apr-2025 00:08:27 UTC] [DEBUG] Database connection established successfully.
+[27-Apr-2025 00:08:27 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"rgege","routine_Description":"rgeegerge","exercises":[{"exercise_ID":1,"set_count":1}]}
+[27-Apr-2025 00:08:27 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: rgege, Routine Description: rgeegerge, Exercises: [{"exercise_ID":1,"set_count":1}]
+[27-Apr-2025 00:08:27 UTC] [DEBUG] Routine saved successfully. Routine ID: 64
+[27-Apr-2025 00:08:27 UTC] [DEBUG] Exercise added to routine. Exercise ID: 1
+[27-Apr-2025 00:49:50 UTC] [DEBUG] Database connection established successfully.
+[27-Apr-2025 00:49:50 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"rgeerg","routine_Description":"rgeegerg","exercises":[{"exercise_ID":1,"set_count":1}]}
+[27-Apr-2025 00:49:50 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: rgeerg, Routine Description: rgeegerg, Exercises: [{"exercise_ID":1,"set_count":1}]
+[27-Apr-2025 00:49:50 UTC] [DEBUG] Routine saved successfully. Routine ID: 65
+[27-Apr-2025 00:49:50 UTC] [DEBUG] Exercise added to routine. Exercise ID: 1
+[02-May-2025 01:57:25 UTC] [DEBUG] Database connection established successfully.
+[02-May-2025 01:57:25 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"test","routine_Description":"test","exercises":[{"exercise_ID":1,"set_count":2},{"exercise_ID":2,"set_count":3}]}
+[02-May-2025 01:57:25 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: test, Routine Description: test, Exercises: [{"exercise_ID":1,"set_count":2},{"exercise_ID":2,"set_count":3}]
+[02-May-2025 01:57:25 UTC] [DEBUG] Routine saved successfully. Routine ID: 66
+[02-May-2025 01:57:25 UTC] [DEBUG] Exercise added to routine. Exercise ID: 1
+[02-May-2025 01:57:25 UTC] [DEBUG] Exercise added to routine. Exercise ID: 2
+[05-May-2025 19:39:06 UTC] [DEBUG] Database connection established successfully.
+[05-May-2025 19:39:06 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"legday","routine_Description":"legday","exercises":[{"exercise_ID":6,"set_count":3},{"exercise_ID":12,"set_count":3}]}
+[05-May-2025 19:39:06 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: legday, Routine Description: legday, Exercises: [{"exercise_ID":6,"set_count":3},{"exercise_ID":12,"set_count":3}]
+[05-May-2025 19:39:06 UTC] [DEBUG] Routine saved successfully. Routine ID: 67
+[05-May-2025 19:39:06 UTC] [DEBUG] Exercise added to routine. Exercise ID: 6
+[05-May-2025 19:39:06 UTC] [DEBUG] Exercise added to routine. Exercise ID: 12
+[07-May-2025 01:04:01 UTC] [DEBUG] Database connection established successfully.
+[07-May-2025 01:04:01 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"test","routine_Description":"test","exercises":[{"exercise_ID":2,"set_count":3}]}
+[07-May-2025 01:04:01 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: test, Routine Description: test, Exercises: [{"exercise_ID":2,"set_count":3}]
+[07-May-2025 01:04:01 UTC] [DEBUG] Routine saved successfully. Routine ID: 68
+[07-May-2025 01:04:01 UTC] [ERROR] Invalid exercise data: {"exercise_ID":2,"set_count":3}
+[07-May-2025 01:04:01 UTC] [ERROR] Transaction failed: Invalid exercise data.
+[07-May-2025 01:16:22 UTC] [DEBUG] Database connection established successfully.
+[07-May-2025 01:16:22 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"test","routine_Description":"test","exercises":[{"exercise_ID":3,"set_count":3}]}
+[07-May-2025 01:16:22 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: test, Routine Description: test, Exercises: [{"exercise_ID":3,"set_count":3}]
+[07-May-2025 01:16:22 UTC] [DEBUG] Routine saved successfully. Routine ID: 69
+[07-May-2025 01:16:22 UTC] [ERROR] Invalid exercise data: {"exercise_ID":3,"set_count":3}
+[07-May-2025 01:16:22 UTC] [ERROR] Transaction failed: Invalid exercise data.
+[07-May-2025 01:30:15 UTC] [DEBUG] Database connection established successfully.
+[07-May-2025 01:30:16 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"test","routine_Description":"test","exercises":[{"exercise_ID":1,"set_count":3},{"exercise_ID":2,"set_count":1}]}
+[07-May-2025 01:30:16 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: test, Routine Description: test, Exercises: [{"exercise_ID":1,"set_count":3},{"exercise_ID":2,"set_count":1}]
+[07-May-2025 01:30:16 UTC] [DEBUG] Routine saved successfully. Routine ID: 70
+[07-May-2025 01:30:16 UTC] [DEBUG] Exercise added to routine. Exercise ID: 1
+[07-May-2025 01:30:16 UTC] [DEBUG] Exercise added to routine. Exercise ID: 2
+[07-May-2025 01:33:37 UTC] [DEBUG] Database connection established successfully.
+[07-May-2025 01:33:37 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"htrehrt","routine_Description":"rthrthrth","exercises":[{"exercise_ID":1,"set_count":1}]}
+[07-May-2025 01:33:37 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: htrehrt, Routine Description: rthrthrth, Exercises: [{"exercise_ID":1,"set_count":1}]
+[07-May-2025 01:33:37 UTC] [DEBUG] Routine saved successfully. Routine ID: 71
+[07-May-2025 01:33:37 UTC] [DEBUG] Exercise added to routine. Exercise ID: 1
+[07-May-2025 01:59:18 UTC] [DEBUG] Database connection established successfully.
+[07-May-2025 01:59:18 UTC] [DEBUG] Received input: {"user_ID":11,"routine_Name":"regeg","routine_Description":"grereggre","exercises":[{"exercise_ID":3,"set_count":2,"rest_timer":true}]}
+[07-May-2025 01:59:18 UTC] [DEBUG] Input validated. User ID: 11, Routine Name: regeg, Routine Description: grereggre, Exercises: [{"exercise_ID":3,"set_count":2,"rest_timer":true}]
+[07-May-2025 01:59:18 UTC] [DEBUG] Routine saved successfully. Routine ID: 72
+[07-May-2025 01:59:18 UTC] [DEBUG] Exercise added to routine. Exercise ID: 3
